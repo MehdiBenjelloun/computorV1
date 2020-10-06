@@ -3,7 +3,7 @@
 #                                                         :::      ::::::::    #
 #    main.py                                            :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: mbenjell <mbenjell@42.fr>                  +#+  +:+       +#+         #
+#    By: mbenjell <mbenjell@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2020/02/19 11:07:51 by mbenjell          #+#    #+#              #
 #    Updated: 2020/04/21 04:16:53 by mbenjell         ###   ########.fr        #

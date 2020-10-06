@@ -3,7 +3,7 @@
 #                                                         :::      ::::::::    #
 #    parsing.py                                         :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: mbenjell <mbenjell@42.fr>                  +#+  +:+       +#+         #
+#    By: mbenjell <mbenjell@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2020/02/19 11:08:47 by mbenjell          #+#    #+#              #
 #    Updated: 2020/04/21 03:10:30 by mbenjell         ###   ########.fr        #
